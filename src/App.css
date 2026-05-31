@@ -1,0 +1,56 @@
+ body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background: black;
+  color: red;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.banner {
+  text-align: center;
+  padding: 100px 20px;
+  background: #222;
+}
+
+.banner button {
+  padding: 10px 20px;
+  background: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.movies {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.movie-card {
+  background: #222;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.movie-card img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
