@@ -1,7 +1,7 @@
- import Navbar from "./components/Navbar";
-import Banner from "./components/Banner";
-import MovieRow from "./components/MovieRow";
-import Footer from "./components/Footer";
+ import Navbar from "./COMPONANTS/Navbar";
+import Banner from "./COMPONANTS/Banner";
+import MovieRow from "./COMPONANTS/MovieRow";
+import Footer from "./COMPONANTS/Footer";
 import "./App.css";
 
 function App() {
